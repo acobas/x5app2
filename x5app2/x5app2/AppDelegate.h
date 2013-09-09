@@ -13,5 +13,6 @@
 @property (strong, nonatomic) UIWindow *window;
 
 - (IBAction)callLibrary:(id)sender;
+- (IBAction)callLibrary2:(id)sender;
 
 @end

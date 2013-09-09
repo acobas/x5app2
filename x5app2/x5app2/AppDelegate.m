@@ -17,6 +17,12 @@
     [lib showAlert];
 }
 
+- (IBAction)callLibrary2:(id)sender;
+{
+    X5LMain *lib = [[X5LMain alloc] init];
+    [lib showAlert2];
+}
+
 #pragma mark UIApplicationDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

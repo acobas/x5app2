@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C260694-0DEA-4598-B562-C1119C0F4044</string>
+	<key>IDESourceControlProjectName</key>
+	<string>x5app2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>362CCEF7-4F25-4733-8C04-C1F688195A25</key>
+		<string>https://github.com/acobas/x5lib.git</string>
+		<key>6F69885C-C2FD-4910-85EA-E6D71F8D0A30</key>
+		<string>https://github.com/acobas/x5app2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>x5app2.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>362CCEF7-4F25-4733-8C04-C1F688195A25</key>
+		<string>../../Libraries/x5lib</string>
+		<key>6F69885C-C2FD-4910-85EA-E6D71F8D0A30</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRequiredConfigurationsDictionary</key>
+	<dict>
+		<key>362CCEF7-4F25-4733-8C04-C1F688195A25</key>
+		<true/>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/acobas/x5app2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F69885C-C2FD-4910-85EA-E6D71F8D0A30</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F69885C-C2FD-4910-85EA-E6D71F8D0A30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>x5app2</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>362CCEF7-4F25-4733-8C04-C1F688195A25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>x5lib</string>
+		</dict>
+	</array>
+</dict>
+</plist>
